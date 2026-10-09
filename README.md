@@ -7,7 +7,7 @@ This repository publishes the single-image landing page at
 
 ## Replace the landing image
 
-Replace `site-image.svg` with the finished image, then update the image filename
-in `index.html` if the new asset uses another format.
+Replace `site-image.webp` with the finished image. Encode it as WebP to keep the
+page quick to load.
 
 For a sharp result on large displays, use a 16:9 image at 1920×1080 or larger.
