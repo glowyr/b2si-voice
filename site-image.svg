@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-labelledby="title description">
+  <title id="title">B2SI Voice</title>
+  <desc id="description">Bridge to Super Intelligence</desc>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="46%" r="62%">
+      <stop offset="0" stop-color="#24355f"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#07090f"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#57e3ff"/>
+      <stop offset="1" stop-color="#ae6cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#glow)"/>
+  <path d="M260 620 C470 620 510 390 720 390 S970 690 1180 690 1400 460 1660 460" fill="none" stroke="url(#line)" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+  <text x="960" y="525" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="132" font-weight="700" letter-spacing="18" text-anchor="middle">B2SI VOICE</text>
+  <text x="960" y="600" fill="#a8b3ca" font-family="system-ui, sans-serif" font-size="30" letter-spacing="8" text-anchor="middle">BRIDGE TO SUPER INTELLIGENCE</text>
+</svg>
